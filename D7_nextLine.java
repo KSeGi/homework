@@ -20,9 +20,8 @@ public class D7_nextLine {
 		else if(gender=='2'||gender=='4') {
 			System.out.println("여자");
 		}
-		
-		
-		
+		else
+			System.out.println("잘못입력하셨습니다.");
 		
 		
 	}
